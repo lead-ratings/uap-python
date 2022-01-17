@@ -6,5 +6,3 @@
 build/
 dist/
 tmp/
-regexes.yaml
-_regexes.py
